@@ -1,0 +1,29 @@
+{
+  "name": "2-nd-episode",
+  "version": "1.0.0",
+  "description": "igniting-app-with-parcel",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajithlingam/reactJS.git"
+  },
+  "author": "rajithlingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajithlingam/reactJS/issues"
+  },
+  "homepage": "https://github.com/rajithlingam/reactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": {
+    "last 2 versions"
+  }
+}
